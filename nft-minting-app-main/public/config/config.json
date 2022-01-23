@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x357E0C1FAd634C431BdeAA4D3FBC8218F37d683A",
+  "SCAN_LINK": "https://polygonscan.com/address/0x357e0c1fad634c431bdeaa4d3fbc8218f37d683a#code",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CrypticSteve",
+  "SYMBOL": "CrpyticSteve",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypticsteve",
+  "SHOW_BACKGROUND": true
+}
